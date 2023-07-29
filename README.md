@@ -3,7 +3,7 @@ Contact:
 Omersr9@gmail.com
 esti31r@gmail.com
 
-Data Science project 
+
 #PROJECT PRESENTATION:
 
 Part 1 - Data crawling from booking
