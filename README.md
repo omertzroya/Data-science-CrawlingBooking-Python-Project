@@ -30,7 +30,7 @@ Two machine learning models, DecisionTreeClassifier and KNN, were applied to pre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hotel-data-analysis.git
+   git clone https://github.com/omertzroya/Data-science-CrawlingBooking-Python-Project.git
    ```
 
 2. Navigate to the project directory:
