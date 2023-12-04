@@ -36,7 +36,7 @@ Two machine learning models, DecisionTreeClassifier and KNN, were applied to pre
 2. Navigate to the project directory:
 
    ```bash
-   cd hotel-data-analysis
+   cd //Your current path
    ```
 
 3. Run the Jupyter notebooks in the `/notebooks` directory in sequential order.
